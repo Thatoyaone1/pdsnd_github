@@ -7,7 +7,7 @@
 Bikeshare: Let's explore some data
 
 ### Description
-The project looks at data from 3 different American cities. It prompts the user to select filters of the data analysis 
+Uncovering Bikeshare user patterns, comparing the system usage between three large cities: Chicago, New York City, and Washington.
 
 ### Files used
 chicago.csv
