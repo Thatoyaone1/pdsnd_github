@@ -9,6 +9,8 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
 
+user_name = input("Please enter your first name:")
+
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
