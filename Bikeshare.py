@@ -2,6 +2,9 @@ import time
 import pandas as pd
 import numpy as np
 
+# Thatoyaone Maphunye (Udacity Programming for Data Science)
+# 25 September 2021
+
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
@@ -19,6 +22,8 @@ def get_filters():
     # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     
     city = input('\n Which of the three (3) cities would you like to analyse? (Choice between Chicago, New York City, Washington)\n').lower()
+    
+    # These while loops are for error handling
 
     while city not in ['chicago', 'new york city', 'washington']:
         city = input("Sorry, that's not one of the options, please input either Chicago, New York City or Washington.\n").lower()
