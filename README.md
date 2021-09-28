@@ -4,7 +4,7 @@
 28 September 2021
 
 ### Project Title
-Bikeshare: Let's explore some data
+Bikeshare: Let's explore some data (Udacity Project)
 
 ### Description
 Uncovering Bikeshare user patterns, comparing the system usage between three large cities: Chicago, New York City, and Washington.
