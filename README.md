@@ -12,6 +12,7 @@ The project looks at data from 3 different American cities. It prompts the user 
 
 ### Files used
 chicago.csv
+new_york_city.csv
 washington.csv
 
 ### Credits
