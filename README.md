@@ -17,3 +17,4 @@ washington.csv
 ### Credits
 https://www.geeksforgeeks.org/visualize-data-from-csv-file-in-python/
 https://ourcodingclub.github.io/tutorials/pandas-python-intro/
+https://www.tutorialspoint.com/machine_learning_with_python/index.htm
